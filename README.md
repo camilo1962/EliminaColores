@@ -1,1 +1,2 @@
-https://github.com/camilo1962/EliminaColores/blob/main/Assets/Images/colorpalette1.jpg
+## Elimina Colores
+![](https://github.com/camilo1962/EliminaColores/blob/main/Assets/Images/colorpalette1.jpg)
